@@ -11,3 +11,4 @@ A few tools for this router
 - /samba - Samba helpers
 - /supertool - Utility to spawn a shell and decrypt config in an almost automatic way
 
+https://bandaancha.eu/foros/todo-sobre-f8648p-admin-decodificar-1746950
